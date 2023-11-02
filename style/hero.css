@@ -44,8 +44,8 @@
     display: flex;
     align-items: center;
     flex-direction: column;
-    width: 700px;
-    gap: .5rem;
+    width: 780px;
+    gap: .3rem;
 }
 .subscribe p{
     font-size: 1.4rem;
